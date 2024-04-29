@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">login_practical</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">LOGIN</string>
+
+    <string name="hint_user_name">USERNAME</string>
+    <string name="hint_password">PASSWORD</string>
+
 </resources>
